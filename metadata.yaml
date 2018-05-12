@@ -22,6 +22,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
 description: A romance of the Spanish Main, introducing Queen Elizabeth, Drake, Thomas
   Doughty, Sidney, The Countess of Pembroke, etc.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13812#Sir-Mortimer--A-Novel
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2004-10-20'
 gutenberg_type: Text
